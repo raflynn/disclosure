@@ -6,30 +6,37 @@ Potential competing interests.
 
 It's important to, when they exist, disclosing possible competing interests.
 
-Categories below were found by Michael Hoffman via International Committee of Medical Journal Editors (ICMJE) Form for Disclosure of Potential Conflicts of Interest. Potential conflicts remain for at least 36 months after the relevant relationships conclude.
+Categories below were initially drafted by Michael Hoffman via International Committee of Medical Journal Editors (ICMJE) Form for Disclosure of Potential Conflicts of Interest. Potential conflicts remain for at least 36 months after the relevant relationships conclude.
 
 As per Michael's idea, using a Git repository better enables exploration of since-removed conflicts and therefore fuller disclosure.
 
 ## Disclosures
-### Employment and academic appointments
+### Board of Directors
+- Chronus Health
+- Stealth RNA Therapeutics Company
 
-- Stanford University
+### Consulting
+- Stealth RNA Therapeutics Company
 
-### Funding: grant
+### Equity Holdings
+- Private (biotech/healthcare): Inflammatix, Indie Labs, Luminostics, Zenflow, HistoWiz, Zbioitics, Persephone Biome, Enter Health, Decoy Biosystems, HepaTx, Erisyon, Chronus Health, Ravel Bio, SannTek Labs, Kern Systems, Nuntius Therapeutics, Siren Biotechnology, Rocket Doctor, Kilobaser, Mytos, SiPhox, SFA Therapeutics
 
-- Damon Runyon Cancer Research Foundation
+- Private (non-biotech/healthcare): Quswami, Blue Planet, Opus12, CaseText, Aptible, Momentus, WindLift, SEON, Topicals, Scindo, TransAstra, TractionApps
 
 ### Patent applications
 - Provisional patent application: None
 - Granted patent applicaiton: None
 
-### Investments
+### Employment and academic appointments
+- Boston Children's Hospital and Harvard University
 
-Public stocks: Tesla Motors
+### Academic Funding
+- Emerson Collective
+- Sontag Foundation
+- Rita Allen Foundation
+- Burroughs Wellcome Fund
 
-Private companies (biotech/healthcare): Inflammatix, Indie Labs, Luminostics, Zenflow, HistoWiz, Zbioitics, Persephone Biome, Enter Health, Decoy Biosystems, HepaTx, Erisyon, Chronus Health, Ravel Bio, SannTek Labs, Kern Systems
 
-Private companies (non-biotech/healthcare): Quswami, Blue Planet, Opus12, CaseText, Aptible, Momentus, WindLift, SEON, Topicals
 
 ## Feedback
 
@@ -49,4 +56,4 @@ If you do this, please retain the following notice somewhere in your document:
 
 ## Last updated
 
-This document is valid as of 2020-02-08.
+This document is valid as of 2022-06-29.
