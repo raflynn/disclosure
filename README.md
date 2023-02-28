@@ -19,9 +19,9 @@ As per Michael's idea, using a Git repository better enables exploration of sinc
 - Stealth RNA Therapeutics Company
 
 ### Equity Holdings
-- Private (biotech/healthcare): Inflammatix, Indie Labs, Luminostics, Zenflow, HistoWiz, Zbioitics, Persephone Biome, Enter Health, Decoy Biosystems, HepaTx, Erisyon, Chronus Health, Ravel Bio, SannTek Labs, Kern Systems, Nuntius Therapeutics, Siren Biotechnology, Rocket Doctor, Kilobaser, Mytos, SiPhox, SFA Therapeutics
+- Private (biotech/healthcare): Inflammatix, Indie Labs, Luminostics, Zenflow, HistoWiz, Zbioitics, Persephone Biome, Enter Health, Decoy Biosystems, HepaTx, Erisyon, Chronus Health, Ravel Bio, SannTek Labs, Kern Systems, Nuntius Therapeutics, Siren Biotechnology, Rocket Doctor, Kilobaser, Mytos, SiPhox, SFA Therapeutics, GattaCo, Gentem Health
 
-- Private (non-biotech/healthcare): Quswami, Blue Planet, Opus12, CaseText, Aptible, Momentus, WindLift, SEON, Topicals, Scindo, TransAstra, TractionApps
+- Private (non-biotech/healthcare): Quswami, Blue Planet, Opus12, CaseText, Aptible, Momentus, WindLift, SEON, Topicals, Scindo, TransAstra, TractionApps, Capra Biosciences
 
 ### Patent applications
 - Provisional patent application: None
@@ -35,6 +35,8 @@ As per Michael's idea, using a Git repository better enables exploration of sinc
 - Sontag Foundation
 - Rita Allen Foundation
 - Burroughs Wellcome Fund
+- Damon Runyon Cancer Research Foundation
+- Scleraderma Research Foundation
 
 
 
@@ -56,4 +58,4 @@ If you do this, please retain the following notice somewhere in your document:
 
 ## Last updated
 
-This document is valid as of 2022-06-29.
+This document is valid as of 2023-02-28.
