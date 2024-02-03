@@ -13,19 +13,19 @@ As per Michael's idea, using a Git repository better enables exploration of sinc
 ## Disclosures
 ### Board of Directors
 - Chronus Health
-- Stealth RNA Therapeutics Company
+- GanNA Bio
 
 ### Consulting
-- Stealth RNA Therapeutics Company
+- ReNAgade Therapeutics
 
 ### Equity Holdings
-- Private (biotech/healthcare): Inflammatix, Indie Labs, Luminostics, Zenflow, HistoWiz, Zbioitics, Persephone Biome, Enter Health, Decoy Biosystems, HepaTx, Erisyon, Chronus Health, Ravel Bio, SannTek Labs, Kern Systems, Nuntius Therapeutics, Siren Biotechnology, Rocket Doctor, Kilobaser, Mytos, SiPhox, SFA Therapeutics, GattaCo, Gentem Health
+- Private (biotech/healthcare): Inflammatix, Indie Labs, Luminostics, Zenflow, HistoWiz, Zbioitics, Persephone Biome, Enter Health, Decoy Biosystems, HepaTx, Erisyon, Chronus Health, Ravel Bio, SannTek Labs, Kern Systems, Nuntius Therapeutics, Siren Biotechnology, Rocket Doctor, Kilobaser, Mytos, SiPhox, SFA Therapeutics, GattaCo
 
-- Private (non-biotech/healthcare): Quswami, Blue Planet, Opus12, CaseText, Aptible, Momentus, WindLift, SEON, Topicals, Scindo, TransAstra, TractionApps, Capra Biosciences
+- Private (non-biotech/healthcare): Quswami, Blue Planet, Twelve, Aptible, WindLift, SEON, Topicals, Scindo, TransAstra, TractionApps, Capra Biosciences
 
 ### Patent applications
 - Provisional patent application: None
-- Granted patent applicaiton: None
+- Granted patent applicaiton: US17/825,737
 
 ### Employment and academic appointments
 - Boston Children's Hospital and Harvard University
@@ -37,6 +37,7 @@ As per Michael's idea, using a Git repository better enables exploration of sinc
 - Burroughs Wellcome Fund
 - Damon Runyon Cancer Research Foundation
 - Scleraderma Research Foundation
+- National Institutes of Health; NIGMS
 
 
 
@@ -58,4 +59,4 @@ If you do this, please retain the following notice somewhere in your document:
 
 ## Last updated
 
-This document is valid as of 2023-02-28.
+This document is valid as of 2024-02-03.
